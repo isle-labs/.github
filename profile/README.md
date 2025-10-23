@@ -24,4 +24,4 @@ The subgraph that is indexing Isle Finance protocol.
 
 ## Additional Resources
 - [Isle Finance](https://isle.finance/)
-- [X](https://x.com/isle_finance)
+- [X](https://x.com/IsleFinance)
